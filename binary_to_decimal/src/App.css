@@ -1,3 +1,8 @@
 .App {
   text-align: center;
+  padding: 10px;
+}
+
+#user-input {
+  margin: 10px;
 }
